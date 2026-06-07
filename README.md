@@ -240,11 +240,8 @@ project/
 │   └── evaluate.py
 │
 ├── assets/
-│   ├── reward_plot.png
 │   └── checkpoints/
-│
-└── videos/
-```
+
 
 ---
 
